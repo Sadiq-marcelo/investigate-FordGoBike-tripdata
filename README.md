@@ -1,10 +1,8 @@
-# (San Francisco Ford GoBike Data Exploration)
-## by (Saddick Kwao Umar)
-
+# San Francisco Ford GoBike Project
 
 ## Dataset
 
-> > The dataset contains 183,412 records of trips, and 16 different features including start time, end time, start station, end station, and latitude/longitude for each station.The dataset contains few numeric variables and categorical variables.
+This project seeks to explore Ford's Go Bike trip sharing data in San Francisco Bay Area 2019. The dataset contains 183,412 records of trips, and 16 different features including start time, end time, start station, end station, and latitude/longitude for each station.The dataset contains few numeric variables and categorical variables.
 
 
 ## Summary of Findings
@@ -16,7 +14,7 @@ Looking at the relationship between  age and trip durations, a negative trend wa
 
 ## Key Insights for Presentation
 
-For the Presentation, I aim to help my audience become conversant with distribution of  my variable of interest duration_sec. Then move to age frequency of GoBike users, then hour and day.
-
-In second thread, I'll introduce the interaction between both numeric variables, how two categorical variables interact and also how numeric and categorical variables interact with other categorical variables. I would start by introducing the heatmap depicting the relationship between duration_sec and age. Further, I'll introduce the interaction between two categorical variables user type and  day with the help of a second heat.
-Further, with the help of pointplot I would introduce how the insights derived when three variables are matched against each other.
+1. Go Bike users are largely male dominated. More advertisement needs to geared toward how cycling benefits females and other, to encourage them more
+2.  Go Bike is popular with office commuters and students
+3. Most active Go Bike riders are between ages of 25 to 35
+4. Casual or unsuscribed riders tend to make 7% to 15% of the trips taken each day
