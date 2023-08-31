@@ -1,4 +1,7 @@
 # San Francisco Ford GoBike Project
+![Ford GoBike](https://github.com/Sadiq-marcelo/investigate-FordGoBike-tripdata/assets/117516151/80a9885b-bac5-4954-b51a-5aeb50f492c6)
+
+
 
 ## Executive Summary
 #### What is the project's main purpose?
