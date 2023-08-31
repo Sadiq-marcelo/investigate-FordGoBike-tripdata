@@ -7,7 +7,7 @@ This project seeks to explore Ford's Go Bike trip sharing data in San Francisco 
 
 #### What are some of the key findings and conclusions drawn from your analysis?
 As a result of the analysis carried out, here some of the key findings and conclusions considered includes:
-* Most riders were between ages of 30 to 40years regardless of gender.
+* Most biders are between ages of 30 to 40years regardless of gender.
 * Most trips were made during morning and afternoon, GoBike is popular with office commuters and students with frequency of bike sharing peaking at 8am to 9am during office and school going hours, and from 5pm to 6pm during office and school closing hours. Also, Thursdays happens to be most popular with riders, whilst there isn't much biking during weekends.
 * There's negative trend between the bikers age and trip frequency as people tend to make less trips as they age older. 
 
@@ -53,7 +53,7 @@ Notice the negative trend between the bikers age and trip frequency. With peaks 
 
 ## Conclusions
 Summary of findings and recommendations includes:
-* Most riders were between ages of 30 to 40years regardless of gender.
+* Most biders are between ages of 30 to 40years regardless of gender.
 * Most trips were made during morning and afternoon, GoBike is popular with office commuters and students with frequency of bike sharing peaking at 8am to 9am during office and school going hours, and from 5pm to 6pm during office and school closing hours. Also, Thursdays happens to be most popular with riders, whilst there isn't much biking during weekends.
 * There's negative trend between the bikers age and trip frequency as people tend to make less trips as they age older. 
 
