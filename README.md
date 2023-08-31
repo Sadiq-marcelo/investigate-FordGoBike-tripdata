@@ -38,14 +38,17 @@ The main methods utilized to carry out analysis involves:
 Here are some of the results generated from the analysis made:
 ## 1. Bikers Age Distribution
 ![bikers age distribution](https://github.com/Sadiq-marcelo/investigate-FordGoBike-tripdata/assets/117516151/36eb0e9f-ed61-47d9-b180-285c7511ccec)
+
 The visualization here shows the age distribution of Go Bike users in with large chunk of riders within the age of 30 to 40 in both gender with least number of bikers ranging between 70 to 80 years.
 
 ## 2. Trip Frequency by bikers
 ![most trips taken](https://github.com/Sadiq-marcelo/investigate-FordGoBike-tripdata/assets/117516151/29223ba7-1e4c-4deb-be83-669a0c833d11)
+
 Unsurprisingly, most trips were made during morning and afternoon. The peak in this periods shows that GoBike is popular with office commuters and students with frequency of bike sharing peaking at 8am to 9am during office and school going time and from 5pm to 6pm during office and school closing times. Also, Thursdays happens to be most popular with riders, whilst there isn't much biking during weekends.
 
 ## 3. Relationship between Bikers Age and Trip duration
 ![bikers vs trips taken](https://github.com/Sadiq-marcelo/investigate-FordGoBike-tripdata/assets/117516151/b08f217c-8273-44f2-9b26-d321663a3eff)
+
 Notice the negative trend between the bikers age and trip frequency. With peaks between 330 to 600 seconds and age ranging from 25 to 35, the heatmap depicts the duration of trips taken to be short, and such, taken by people within working class and college going age. Importantly, the visualization shows a less trips are taken has users age.
 
 ## Conclusions
