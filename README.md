@@ -26,7 +26,7 @@ The problems tackled in this project investigates the data further giving us ins
 * What is the relationship between bikers age and trip duration?
 
 #### Why is the project important?
-This projects gives us insights into Ford's bike trip data and customer's (bikers behaviour). Moreover, the project covers each step of the data analysis process in a chronological order from data gathering, data assessment and cleaning, data exploration, data visualization to sharing findings to perform thorough analysis on the data in question.
+The project dives deep into Ford's bike trip data giving us insights into customer (bikers) behaviour, and how Ford GoBike can improve it's service. Moreover, the project covers each step of the data analysis process in a chronological order from data gathering, data assessment and cleaning, data exploration, data visualization to sharing findings to perform thorough analysis on the data in question.
 
 #### Where is this data sourced from?
 The data used in this project is one of three projects carried out during Udacity Data Analyst Nanodegree Program. The data is provided by Udacity for the sole purpose of building projects utilizing the data analysis process.
