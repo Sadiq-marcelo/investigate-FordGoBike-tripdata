@@ -19,7 +19,7 @@ As a result of the analysis carried out, here some of the key findings and concl
 The dataset contains 183,412 records of trips, and 16 different features including start time, end time, start station, end station, and latitude/longitude for each station.The dataset contains few numeric variables and categorical variables.
 
 #### What are the problems tackled in this project?
-The problems tackled in this project explores the data further giving us insights inot the trends, characteristics and features that hidden the data to help us make more informed data driven decisions. Here are some of the problems tackled:
+The problems tackled in this project investigates the data further giving us insights by exploring the trends, characteristics, and features that are hidden within the data to help us make more informed data driven decisions. Some of these problems includes:
 
 * What is the age distribution of bikers?
 * What is trip frequency by bikers?
